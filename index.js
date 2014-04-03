@@ -11,4 +11,6 @@ function using(name, values, func) {
   it = oldIt;
 }
 
-module.exports = using;
+if (typeof exports == "object") {
+  module.exports = using;
+}
