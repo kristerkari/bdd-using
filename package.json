@@ -1,6 +1,6 @@
 {
   "name": "mocha-using",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "DRY your Mocha tests using the data provider pattern",
   "main": "index.js",
   "scripts": {
