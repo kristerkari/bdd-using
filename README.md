@@ -7,7 +7,7 @@ A test helper for Jasmine and Mocha frameworks, inspired by this article: [DRYin
 
 ## Installation
 
-For Mocha:
+**For Mocha:**
 
 ```sh
 npm install bdd-using
@@ -19,7 +19,7 @@ and in test spec:
 var using = require('bdd-using');
 ```
 
-For Jasmine:
+**For Jasmine:**
 
 Include the `index.js` script on your page.
 
