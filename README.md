@@ -19,7 +19,7 @@ Include the `index.js` script on your page.
 
 ## Examples
 
-Sometimes you need to write a test where all test values are expected to have the same result:
+Sometimes you need to write a test where all tested values are expected to have the same test result:
 
 ```js
 describe("when calling isLeap method", function() {
@@ -46,7 +46,7 @@ describe("when calling isLeap method", function() {
 
 ```
 
-With `using` helper you can write this:
+With `using` helper you can write this instead:
 
 ```js
 describe("when calling isLeap method", function() {
