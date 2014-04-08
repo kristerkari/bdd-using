@@ -9,6 +9,12 @@ A test helper for Jasmine and Mocha frameworks, inspired by this article: [DRYin
 
 For Mocha:
 
+```sh
+npm install bdd-using
+```
+
+and in test spec:
+
 ```js
 var using = require('bdd-using');
 ```
