@@ -23,6 +23,18 @@ var using = require('bdd-using');
 
 Include the `index.js` script on your page.
 
+**For Karma:**
+
+```sh
+npm install karma-bdd-using
+```
+
+and add `'bdd-using'` to your Karma config frameworks:
+
+```js
+frameworks: ['jasmine', 'bdd-using'],
+```
+
 ## Examples
 
 Sometimes you need to write a test where all tested values are expected to have the same test result:
