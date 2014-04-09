@@ -23,7 +23,7 @@ var using = require('bdd-using');
 
 Include the `index.js` script on your page.
 
-**For Karma:**
+**For Karma (Jasmine and Mocha):**
 
 ```sh
 npm install karma-bdd-using
